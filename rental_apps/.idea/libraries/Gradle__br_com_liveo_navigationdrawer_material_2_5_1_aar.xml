@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: br.com.liveo:navigationdrawer-material:2.5.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3ef4227b0abbfc495e6dcd4ae1a20300/navigationdrawer-material-2.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3ef4227b0abbfc495e6dcd4ae1a20300/navigationdrawer-material-2.5.1/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.liveo/navigationdrawer-material/2.5.1/36cf976474e5ffa0b1aff5c91ad999485fa0ea48/navigationdrawer-material-2.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/br.com.liveo/navigationdrawer-material/2.5.1/2f95b2c52cfb29a1642da5cd4a028913d6307c2f/navigationdrawer-material-2.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
